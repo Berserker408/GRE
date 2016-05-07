@@ -8,7 +8,7 @@ A Least Relative Error Approach".
 
 Installation
 -------
-1. Download the package by running: `git clone https://github.com/PRML/PRMLT.git`.
+1. Download the package from: `https://github.com/Berserker408/LRE`.
 
 2. Run Matlab and navigate to package location as working directory.
 
